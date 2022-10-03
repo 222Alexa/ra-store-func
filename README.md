@@ -64,3 +64,9 @@ return (
 ## Реализация
 
 Реализуйте полноценный проект с помощью create-react-app, не забудьте задействовать prop-types (для item можете использовать либо тип `object`, либо вынести item в класс и использовать `instanceOf`.
+
+
+---
+[![Build status](https://ci.appveyor.com/api/projects/status/5pkdq9i7r55yocmc/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ra-store-func-04i45/branch/main)
+
+[GH-Pages](https://222alexa.github.io/ra-store-func/)
